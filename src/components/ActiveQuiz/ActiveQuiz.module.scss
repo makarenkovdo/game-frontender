@@ -1,0 +1,17 @@
+.activeQuiz {
+    display: grid;
+    width: 600px;
+    border: 2px solid white;
+    grid-template-columns: 8fr 2fr;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+
+
+}
+
+.question {
+    display: grid;
+    justify-content: center;
+  
+}
